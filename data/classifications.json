@@ -1,0 +1,74 @@
+[
+  {
+    "id": "C-01",
+    "name": "Associate",
+    "code": "ASC",
+    "description": "Developing practitioner working with regular guidance.",
+    "status": "Active",
+    "assignedPeople": 12,
+    "lastUpdated": "2026-08-28"
+  },
+  {
+    "id": "C-02",
+    "name": "Professional",
+    "code": "PRO",
+    "description": "Independent contributor accountable for defined outcomes.",
+    "status": "Active",
+    "assignedPeople": 22,
+    "lastUpdated": "2026-09-05"
+  },
+  {
+    "id": "C-03",
+    "name": "Senior professional",
+    "code": "SRP",
+    "description": "Experienced specialist leading complex work and mentoring peers.",
+    "status": "Active",
+    "assignedPeople": 9,
+    "lastUpdated": "2026-09-10"
+  },
+  {
+    "id": "C-04",
+    "name": "Manager",
+    "code": "MGR",
+    "description": "People leader accountable for team delivery and development.",
+    "status": "Active",
+    "assignedPeople": 9,
+    "lastUpdated": "2026-09-12"
+  },
+  {
+    "id": "C-05",
+    "name": "Director",
+    "code": "DIR",
+    "description": "Functional leader accountable for strategy and portfolio outcomes.",
+    "status": "Active",
+    "assignedPeople": 1,
+    "lastUpdated": "2026-08-19"
+  },
+  {
+    "id": "C-06",
+    "name": "Executive",
+    "code": "EXE",
+    "description": "Enterprise executive with organization-wide accountability.",
+    "status": "Active",
+    "assignedPeople": 0,
+    "lastUpdated": "2026-07-30"
+  },
+  {
+    "id": "C-07",
+    "name": "Seasonal",
+    "code": "SEA",
+    "description": "Time-bound seasonal work classification.",
+    "status": "Archived",
+    "assignedPeople": 0,
+    "lastUpdated": "2026-03-14"
+  },
+  {
+    "id": "C-08",
+    "name": "Intern",
+    "code": "INT",
+    "description": "Structured learning placement with close supervision.",
+    "status": "Active",
+    "assignedPeople": 0,
+    "lastUpdated": "2026-09-01"
+  }
+]

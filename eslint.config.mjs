@@ -12,6 +12,8 @@ const eslintConfig = defineConfig([
     "out/**",
     "build/**",
     "next-env.d.ts",
+    // ReUI registry source is vendored third-party code and retains its upstream lint profile.
+    "components/reui/**",
   ]),
 ]);
 
